@@ -1,0 +1,73 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: azure;  
+}
+h1 {
+    text-align: center;
+    color: #4f307d;
+}
+h2{
+    border: solid 1px black;
+    background-color: lightgoldenrodyellow;
+    margin: 25px 1126px 0 200px;
+    padding: 5px 200px 0px 5px;
+    height: 40px;
+    text-align: justify;  
+}
+.Pantry{
+    /* padding: 25px; */
+    display: inline-block;
+    margin: 0 auto;
+
+}
+div{
+    display: inline-block;
+    padding: 25px;
+}
+.Div1{
+    background-color: #9cd7af;
+    height: 150px;
+    width: 200px;
+    margin: 0 0 0 200px;
+    padding: 0px 25px 25px 25px;
+}
+.Div3{
+    background-color: sandybrown;
+    height: 150px;
+    width: 200px;
+    margin: 0 0 0 200px;
+    padding: 0px 25px 25px 25px;
+}
+.Div2{
+    background-color: antiquewhite;
+    height: 150px;
+    width: 200px;
+    margin: 0 50px 0 50px;
+    padding: 0px 25px 25px 25px;
+}
+.Div4{
+    background-color: plum;
+    height: 150px;
+    width: 200px;
+    margin: 0 50px 0 50px;
+    padding: 0px 25px 25px 25px;
+} 
+#image1{
+    padding-top: 0px;
+    /* padding-bottom: 5px; */
+    height: 150px;
+    width: 200px;
+    /* margin: 0 50px 0 50px;
+    padding: 50px 25px 25px 25px; */
+    /* top: 0; */
+    
+}
+#image1 > img {
+    height: 100%;
+    width: 100%;
+}
+#image2{
+    margin: 5px 0px 500px 0px ;
+    display: inline-flex;
+    padding: 0; 
+}
